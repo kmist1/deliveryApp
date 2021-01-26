@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9335CB3425C0746900D9FBE7 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9335CB3325C0746900D9FBE7 /* DetailViewController.swift */; };
 		933DA48125BF63A5005B3AAA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933DA48025BF63A5005B3AAA /* AppDelegate.swift */; };
 		933DA48325BF63A5005B3AAA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933DA48225BF63A5005B3AAA /* SceneDelegate.swift */; };
 		933DA48525BF63A5005B3AAA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933DA48425BF63A5005B3AAA /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9335CB3325C0746900D9FBE7 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		933DA47D25BF63A5005B3AAA /* deliveryApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = deliveryApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		933DA48025BF63A5005B3AAA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		933DA48225BF63A5005B3AAA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				933DA48925BF63A7005B3AAA /* Assets.xcassets */,
 				933DA48B25BF63A7005B3AAA /* LaunchScreen.storyboard */,
 				933DA48E25BF63A7005B3AAA /* Info.plist */,
+				9335CB3325C0746900D9FBE7 /* DetailViewController.swift */,
 			);
 			path = deliveryApp;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				933DA48525BF63A5005B3AAA /* ViewController.swift in Sources */,
 				933DA49625BF6FDE005B3AAA /* RestaurantDetailCell.swift in Sources */,
+				9335CB3425C0746900D9FBE7 /* DetailViewController.swift in Sources */,
 				933DA48125BF63A5005B3AAA /* AppDelegate.swift in Sources */,
 				933DA48325BF63A5005B3AAA /* SceneDelegate.swift in Sources */,
 			);
