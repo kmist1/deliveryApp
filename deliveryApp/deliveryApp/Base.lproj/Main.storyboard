@@ -305,7 +305,6 @@
                     <tabBarItem key="tabBarItem" title="Home" id="8jt-aV-hVn"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="IGU-kA-vlA">
-                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
@@ -319,8 +318,8 @@
         </scene>
     </scenes>
     <resources>
-        <image name="mappin.circle.fill" catalog="system" width="64" height="60"/>
+        <image name="mappin.circle.fill" catalog="system" width="32" height="32"/>
         <image name="restarant1" width="1030" height="538"/>
-        <image name="star.fill" catalog="system" width="64" height="58"/>
+        <image name="star.fill" catalog="system" width="32" height="32"/>
     </resources>
 </document>
